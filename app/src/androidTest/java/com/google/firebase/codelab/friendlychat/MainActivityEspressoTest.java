@@ -33,9 +33,9 @@ import static android.support.test.espresso.matcher.ViewMatchers.isDisplayed;
 @LargeTest
 public class MainActivityEspressoTest {
 
-    @Rule
-    public ActivityTestRule<MainActivity> mActivityRule =
-            new ActivityTestRule<>(MainActivity.class);
+//    @Rule
+//    public ActivityTestRule<MainActivity> mActivityRule =
+//            new ActivityTestRule<>(MainActivity.class);
 
     // Add instrumentation test here
 }
